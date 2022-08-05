@@ -1,0 +1,11 @@
+C:\Users\Alex\Documents\GitHub\Lottery\Lottery\bin\Debug\netcoreapp3.1\Lottery.exe
+C:\Users\Alex\Documents\GitHub\Lottery\Lottery\bin\Debug\netcoreapp3.1\Lottery.deps.json
+C:\Users\Alex\Documents\GitHub\Lottery\Lottery\bin\Debug\netcoreapp3.1\Lottery.runtimeconfig.json
+C:\Users\Alex\Documents\GitHub\Lottery\Lottery\bin\Debug\netcoreapp3.1\Lottery.runtimeconfig.dev.json
+C:\Users\Alex\Documents\GitHub\Lottery\Lottery\bin\Debug\netcoreapp3.1\Lottery.dll
+C:\Users\Alex\Documents\GitHub\Lottery\Lottery\bin\Debug\netcoreapp3.1\Lottery.pdb
+C:\Users\Alex\Documents\GitHub\Lottery\Lottery\obj\Debug\netcoreapp3.1\Lottery.csprojAssemblyReference.cache
+C:\Users\Alex\Documents\GitHub\Lottery\Lottery\obj\Debug\netcoreapp3.1\Lottery.AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\GitHub\Lottery\Lottery\obj\Debug\netcoreapp3.1\Lottery.AssemblyInfo.cs
+C:\Users\Alex\Documents\GitHub\Lottery\Lottery\obj\Debug\netcoreapp3.1\Lottery.dll
+C:\Users\Alex\Documents\GitHub\Lottery\Lottery\obj\Debug\netcoreapp3.1\Lottery.pdb
